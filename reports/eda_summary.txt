@@ -1,0 +1,12 @@
+
+=== EDA Summary Report ===
+Total rows: 356,255
+Total columns: 135
+Default rate: 8.07%
+Missing columns: 68
+
+Top positive correlation with TARGET: DAYS_BIRTH (0.078)
+Top negative correlation: EXT_SOURCE_3 (-0.179)
+
+Model Validation AUC: 0.76889
+Kaggle Public Score: 0.75883
