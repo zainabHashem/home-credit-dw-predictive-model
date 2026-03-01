@@ -96,8 +96,7 @@ texthome_credit_dw_project/
 └── README.md
 
 📈 Exploratory Data Analysis
-Target Distribution
-<img src="reports/figures/01_target_distribution.png" alt="Target Distribution">
+
 Top Missing Values
 <img src="reports/figures/02_missing_values.png" alt="Missing Values">
 Top Correlations with TARGET
