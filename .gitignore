@@ -1,0 +1,18 @@
+# Large data files
+data/raw/*
+!data/raw/.gitkeep
+
+# Database files
+*.duckdb
+*.db
+
+# OS & Python
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Large outputs
+reports/submission.csv
