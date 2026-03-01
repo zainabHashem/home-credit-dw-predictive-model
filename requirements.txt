@@ -1,0 +1,6 @@
+duckdb
+pandas
+lightgbm
+matplotlib
+seaborn
+scikit-learn
