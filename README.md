@@ -120,7 +120,7 @@ Top Features: EXT_SOURCE_3, EXT_SOURCE_2, ORGANIZATION_TYPE, DAYS_BIRTH, late_co
 
 
 🚀 How to Reproduce
-Bashgit clone https://github.com/YOUR-USERNAME/home-credit-dw-predictive-model.git
+Bashgit clone https://github.com/zainabHashem/home-credit-dw-predictive-model.git
 cd home-credit-dw-predictive-model
 pip install -r requirements.txt
 # Put the 10 CSVs in data/raw/
